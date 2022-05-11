@@ -305,3 +305,24 @@ footer a {
   flex: 12;
 }
 
+.trainer-bio h3 {
+  font-size: 28px;
+}
+
+.trainer-bio h4 {
+  font-weight: lighter;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.trainer-bio p {
+  font-size: 17px;
+  line-height: 1.3;
+}
+
+.trainer-bio {
+  padding: 35px;
+  float: left;
+  width: 65%;
+  line-height: 1.3;
+}
