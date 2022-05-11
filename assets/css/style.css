@@ -21,6 +21,12 @@ section {
 
 }
 
+.section-title {
+  font-size: 55px;
+  color: #024e76;
+  border-bottom: 3px solid;
+}
+
 /* apply styles to <header> */
 header {
 
